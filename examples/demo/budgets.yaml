@@ -1,0 +1,8 @@
+total: 1500
+categories:
+  rent: 650
+  shopping: 300
+plan:
+  income: 2500
+  savings: 500
+  start_month: '2026-09'

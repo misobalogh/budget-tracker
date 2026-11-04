@@ -1,0 +1,10 @@
+Pohyby na ucte c. SK0000000000000000000000 zo dna 04.10.2026,,,,,,,,,
+,,,,,,,,,
+datum zauctovania,suma,mena,referencia platitela,typ transakcie,cislo uctu protistrany,banka protistrany,nazov protistrany,informacia pre prijemcu,doplnujuce udaje
+28.9.2026,-11.00,EUR,/VS100000001/SS0000000001/KS0608,Platba kartou,,,,"Suma: 11,00 EUR 22.9.2026 Miesto: TEST GYM",
+27.9.2026,-5.00,EUR,/VS100000002/SS0000000001/KS0608,Platba kartou,,,,"Suma: 5,00EUR 21.9.2026 Miesto: Shop One, Branch 2",
+15.9.2026,2500.00,EUR,/VS000000000/SS/KS0558,Prijata platba,SK1100000000000000000001,1100,Example Employer s.r.o.,Mzda 09/2026,
+1.9.2026,-650.00,EUR,/VS202609/SS/KS0308,Trvaly prikaz,SK2200000000000000000002,0200,Landlord Name,Najom september,
+5.9.2026,-42.30,EUR,/VS555/SS/KS,Inkaso,SK3300000000000000000003,0900,,,
+10.9.2026,-20.00,EUR,/VS1/SS/KS,Odoslana platba,SK4400000000000000000004,1100,Friend Name,Obed,splatka za obed
+,,,,,,,,,

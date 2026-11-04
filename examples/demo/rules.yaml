@@ -1,0 +1,18 @@
+groups:
+  salary: income
+  rent: fixed
+  fitness: variable
+  shopping: variable
+rules:
+  - category: salary
+    match:
+      counterparty: Example Employer
+  - category: rent
+    match:
+      counterparty: Landlord
+  - category: fitness
+    match:
+      counterparty: TEST GYM
+  - category: shopping
+    match:
+      counterparty: Shop One
