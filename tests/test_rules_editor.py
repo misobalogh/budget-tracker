@@ -197,9 +197,9 @@ def test_invalid_edits_leave_file_untouched(many_path, action, error):
 
 
 def test_shipped_rules_file_survives_edit_roundtrip(tmp_path):
-    """The real rules.yaml (hand-written layout, comments) must be editable by the UI functions."""
+    """The demo rules must be editable by the UI functions."""
     shipped = tmp_path / "rules.yaml"
-    shipped.write_text((ROOT / "rules.yaml").read_text())
+    shipped.write_text((ROOT / "examples/demo/rules.yaml").read_text())
     before = categories(shipped)
     if len(before) < 3:
         pytest.skip("rules.yaml has fewer than 3 rules")
