@@ -2,6 +2,8 @@
 name = "budget-tracker"
 version = "0.1.0"
 description = "Personal budget from bank CSV exports"
+license = "MIT"
+license-files = ["LICENSE"]
 requires-python = ">=3.12"
 dependencies = [
     "fastapi>=0.142.2",

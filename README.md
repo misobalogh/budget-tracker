@@ -44,3 +44,7 @@ Run tests with `uv run pytest`.
 ## Roadmap
 
 - Add a second bank's CSV importer behind the existing `budget/parsers/` boundary, mapping its fields into the same transaction format. A synthetic fixture should cover its headers, encoding, date and number formats, incoming and outgoing payments, and missing optional fields.
+
+## License
+
+MIT, see [LICENSE](LICENSE).
